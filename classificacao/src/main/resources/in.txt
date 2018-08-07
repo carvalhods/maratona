@@ -1,0 +1,21 @@
+4
+santos 11 3 6 16
+sao-paulo 9 2 0 11
+corinthians 4 1 -8 4
+flamengo 9 3 2 10
+3
+avai 6 2 0 7
+america-rn 6 2 0 7
+america-mg 6 2 0 7
+10
+botafogo 7 2 0 2
+parana 4 1 -3 4
+bahia 5 1 -3 5
+sao-paulo 10 3 6 12
+atletico-mg 8 2 7 12
+vasco 8 2 -1 6
+cruzeiro 9 2 6 10
+gremio 10 2 6 13
+palmeiras 9 2 1 9
+sport 8 2 0 7
+0

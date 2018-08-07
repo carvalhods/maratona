@@ -1,0 +1,20 @@
+1 santos
+2 flamengo
+3 sao-paulo
+4 corinthians
+
+1 america-mg
+2 america-rn
+3 avai
+
+1 sao-paulo
+2 gremio
+3 cruzeiro
+4 palmeiras
+5 atletico-mg
+6 sport
+7 vasco
+8 botafogo
+9 bahia
+10 parana
+
